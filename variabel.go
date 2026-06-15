@@ -4,7 +4,7 @@ import "fmt"
 
 // kode dibawah untuk mendeklarasikan variabel dengan tipe data string dan mengubah nilainya. Selain itu, kode ini juga menunjukkan cara menggunakan short variable declaration untuk mendeklarasikan variabel dengan tipe data yang berbeda, serta cara mendeklarasikan banyak variabel sekaligus menggunakan blok var.
 
-func variabel() {
+func main() {
     // Deklarasi dengan var
     var nama string = "Golang"
     fmt.Println("Nama awal :", nama)

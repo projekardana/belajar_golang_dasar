@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func number() {
+func main() {
 	fmt.Println("Bilangan bulat     :", 100)
     fmt.Println("Bilangan negatif   :", -50)
     fmt.Println("Bilangan desimal   :", 3.14)

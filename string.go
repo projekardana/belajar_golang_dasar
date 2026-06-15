@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func string12() {
+func main() {
     var nama string = "Budi Santoso"
     var pesan string = "Belajar Golang"
 

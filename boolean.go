@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func boolean() {
+func main() {
     var isLogin bool = true
     var isActive bool = false
 
